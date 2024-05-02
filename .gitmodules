@@ -1,0 +1,3 @@
+[submodule "hip"]
+	path = hip
+	url = https://github.com/imrannaseer123/hip.git
